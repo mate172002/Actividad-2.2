@@ -1,0 +1,2 @@
+Este programa implementa algoritmos básicos de búsqueda y ordenación en Python. En primer lugar, la función buscar_mayor_menoridentifica el elemento más grande y el más pequeño en un arreglo dado, asegurando que la función maneje adecuadamente los arreglos vacíos.
+Los algoritmos de ordenación presentados, Bubble Sort y Selection Sort, son métodos simples y fundamentales, ideales para comprender conceptos básicos de ordenación.
